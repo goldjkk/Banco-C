@@ -20,6 +20,7 @@ typedef struct {
 
 int compararStrings(const char *str1, const char *str2);
 void copiarString(char destino, const charorigem);
+void Novo_Cliente(Cliente clientes[], int *numClientes);
 
 #endif
 
