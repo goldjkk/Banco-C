@@ -1,6 +1,6 @@
 # Banco-C
-Matheus Concon de Oliveira (R.A 24.123.033-3)
-Kaue vieira lima (R.A 24.123.076-2)
+# Matheus Concon de Oliveira (R.A 24.123.033-3)
+# Kaue vieira lima (R.A 24.123.076-2)
 A proposta do projeto Banco C é criar um banco que trabalha com dois tipos de conta(comum e plus) com sistema simples com as seguintes opções:
 
 1. Novo cliente
