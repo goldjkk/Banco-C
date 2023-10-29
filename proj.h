@@ -24,6 +24,7 @@ void Novo_Cliente(Cliente clientes[], int *numClientes);
 void Apagar_Cliente(Cliente clientes[], int *numClientes);
 void Listar_clientes(Cliente clientes[], int numClientes);
 void Debito(Cliente clientes[], int numClientes, Operacao operacoes[], int *numOperacoes);
+void Deposito(Cliente clientes[], int numClientes, Operacao operacoes[], int *numOperacoes);
 
 #endif
 
