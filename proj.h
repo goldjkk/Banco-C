@@ -17,6 +17,7 @@ typedef struct {
     float valor;
 } Operacao;
 int compararStrings(const char *str1, const char *str2);
+void copiarString(char destino, const charorigem);
 
 #endif
 
